@@ -165,4 +165,9 @@ button {
         flex-direction: column;
     }
 
+    .total-score {
+        position: absolute;
+        bottom: 330px;
+    }
+
 }
